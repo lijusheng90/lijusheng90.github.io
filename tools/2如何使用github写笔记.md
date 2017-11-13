@@ -1,11 +1,13 @@
 # 笔记放在github上
 
-1.安装
-ubuntu  sudo apt-get install git
-2.测试是否安装成功
-git  --version
-3.Git的基本配置（用户名和邮箱），我没有注册哦
+1.安装 ubuntu  sudo apt-get install git
+
+2.测试是否安装成功 git  --version
+
+3.Git的基本配置（用户名和邮箱）
+
 git config --global user.name "lijusheng90"
+
 git config --global user.email "lijusheng@hotmail"
 
 1. git clone https://github.com/lijusheng90/lijusheng90.github.io.git
